@@ -1,5 +1,7 @@
 /** @format */
 
+// Handling Asyn await with a wrapper function
+
 //promise 1
 const isCow = function (name) {
   return new Promise((resolve, reject) => {
